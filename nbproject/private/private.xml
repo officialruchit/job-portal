@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/edit_job.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>37</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/entity/apply.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/dao/Touch.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/entity/contact.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/footer.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/addMsg.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/login.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/DesignHome.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/one_view.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/index.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/register.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/edit_job.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/about.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/apply.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/allCss.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/navbar.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/DB/DBConnect.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/loginServlet.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/edit_profile.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/add_job.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/logout.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/update_profile.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/msg.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/APLLY.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/addImage.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/index.html</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/entity/jobs.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/entity/user.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/dao/Applyjob.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/signup.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/addServlet.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/more_view.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/view_job.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/home.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/deleteMsg.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/deleteImage.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/dao/JobDAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/style.css</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/web/addmin.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/updateServlet.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/deleteservlet.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/job_portal/src/java/com/servlet/image.java</file>
+        </group>
+    </open-files>
+</project-private>
